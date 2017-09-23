@@ -1,4 +1,5 @@
 # OpenIAM
+Let's see what can I do with OpenIAM. (Sometimes it confuses me : OpenIAM or OpenAIM :p)
 
 ### Connect to AWS
 ssh -i "RedHat.pem" ec2-user@ec2-35-167-153-106.us-west-2.compute.amazonaws.com
