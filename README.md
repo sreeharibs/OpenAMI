@@ -16,6 +16,7 @@ Before proceeding make sure that you have java 7, mysql and tomcat installed.
 
 ### Run backend
 `sudo service jbossas7 start`
+
 `sudo service jbossas7 log`
 
 ###
