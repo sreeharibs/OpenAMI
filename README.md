@@ -31,9 +31,9 @@ head on to http://35.198.247.142:8080/webconsole ==> user admin ==> organization
 
 ### Reset Password
 
-*POST : http://35.198.247.142:8080/webconsole/rest/api/prov/resetPassword 
+* POST : http://35.198.247.142:8080/webconsole/rest/api/prov/resetPassword 
 
-*BODY : 
+* BODY : 
 `{"userId": "8a1480825ee0aa2c015ee718bfbe00fb",  
 "password": "pass@123",  
 "confPassword": "pass@123",  
