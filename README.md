@@ -19,4 +19,12 @@ Before proceeding make sure that you have java 7, mysql and tomcat installed.
 
 `sudo service jbossas7 log`
 
-###
+### Creating Organization
+
+head on to http://35.198.247.142:8080/webconsole ==> user admin ==> organization ==> create new organization
+
+## Playing with REST
+
+### Create User
+
+* 
