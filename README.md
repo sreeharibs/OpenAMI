@@ -67,7 +67,7 @@ head on to http://35.198.247.142:8080/webconsole ==> user admin ==> organization
         [
          {
                 "operation": "ADD",
-                "email": "sreehari.bs@ospyn.com",
+                "email": "masked@masked.com",
                 "typeId": "PRIMARY_EMAIL",
                 "description": "description",
                 "default": true,
